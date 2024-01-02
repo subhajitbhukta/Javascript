@@ -6,7 +6,7 @@ console.log(3+3)
 //ignoring semicolon high readability of code try to use next line
 console.log("Subhajit")
 
-// (premitive data types)
+// (premitive data types->>7)
 //number=> 2 to the power 53
 //string=>""
 //bigint(use to big integer exm.. use in fb,stockmarket)
